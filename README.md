@@ -20,7 +20,7 @@ $ npm install -g @dyatlov.net/behold
 $ behold COMMAND
 running command...
 $ behold (--version)
-@dyatlov.net/behold/1.0.0 darwin-x64 node-v18.8.0
+@dyatlov.net/behold/1.1.0 darwin-x64 node-v18.8.0
 $ behold --help [COMMAND]
 USAGE
   $ behold COMMAND
@@ -49,5 +49,5 @@ EXAMPLES
   $ behold csv
 ```
 
-_See code: [dist/commands/csv.ts](https://github.com/adyatlov/behold/blob/v1.0.0/dist/commands/csv.ts)_
+_See code: [dist/commands/csv.ts](https://github.com/adyatlov/behold/blob/v1.1.0/dist/commands/csv.ts)_
 <!-- commandsstop -->

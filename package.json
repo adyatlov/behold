@@ -34,7 +34,7 @@
     "@types/node": "^16.11.64",
     "@types/path-parse": "^1.0.19",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
-    "@typescript-eslint/parser": "^5.39.0",
+    "@typescript-eslint/parser": "^5.45.0",
     "chai": "^4",
     "eslint": "^8.25.0",
     "eslint-config-oclif": "^4",
